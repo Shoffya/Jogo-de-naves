@@ -18,8 +18,8 @@ Para pegar a princesa Peach basta descer até ela.
 
 ## Pontuações
 
-* **Tirar no Bill Bala** = 50 pontos;
-* **Tirar no Bowser** = 50 pontos;
+* **Atirar no Bill Bala** = 50 pontos;
+* **Atirar no Bowser** = 50 pontos;
 * **Resgatar a Peach** = 100 pontos;
 * **Peach passou** = 1000 pontos;
 
