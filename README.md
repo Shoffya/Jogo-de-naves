@@ -29,7 +29,7 @@ Obs: A velocidade do inimigo Bill Bala aumenta 0,3 segundos a cada tiro acertado
 
 ## Platar de Salvos/Perdas
 
-Se o jogador Mario regatar a princesa Peach, conta 1 ponto salvo.
+Se o jogador Mario resgatar a princesa Peach, conta 1 ponto salvo.
 
 Se o inimigo Bowser passar ou colidir com a Princesa Peach, conta 1 ponto perdido.
 
