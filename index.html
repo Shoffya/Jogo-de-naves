@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Resgate</title>
+
+    <link href="css/styles.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+    <div id="container">
+        <!-- div container !-->
+
+        <div id="fundoGame">
+            <!-- div fundoGame !-->
+
+            <div id="inicio" onclick="start()">
+                <h1> Resgate a Princesa Peach</h1> <!-- div inicio !-->
+                <p>Utilize as teclas W e S para movimentar a nave do Mario para cima e para para baixo e, a tecla D para
+                    atirar.</p>
+                <p> Clique aqui para iniciar!! </p>
+            </div> <!-- Fim da div inicio !-->
+
+        </div> <!-- Fim da div fundoGame !-->
+        <section>
+            <div class="links">
+                <a href="links/links.html">Links Usados</a>
+            </div>
+        </section>
+
+    </div> <!-- Fim da div container !-->
+
+
+    <!-- Sons do jogo !-->
+
+    <audio src="sons/disparo.mp3" preload="auto" id="somDisparo"></audio>
+    <audio src="sons/colisaoInimigos.mp3" preload="auto" id="somColisoes"></audio>
+    <audio src="sons/Super Mario World.mp3" preload="auto" id="musicaJogo"></audio>
+    <audio src="sons/Super Mario World - Game Over.mp3" preload="auto" id="somGameover"></audio>
+    <audio src="sons/morte_princesa.mp3" preload="auto" id="somPerdido"></audio>
+    <audio src="sons/resgate.mp3" preload="auto" id="somResgate"></audio>
+
+    <script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript" src="js/js.js"></script>
+    <script type="text/javascript" src="js/jquery-collision.min.js"></script>
+</body>
+
+</html>
