@@ -23,7 +23,7 @@ Para pegar a princesa Peach basta descer até ela.
 * **Resgatar a Peach** = 100 pontos;
 * **Peach passou** = 1000 pontos;
 
-Obs: A velocidade do inimigo Bill Bala almenta 0,3 segundos a cada tiro acertado nele.
+Obs: A velocidade do inimigo Bill Bala aumenta 0,3 segundos a cada tiro acertado nele.
 
 ***
 
