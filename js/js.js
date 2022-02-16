@@ -125,7 +125,7 @@ function start() { // Inicio da função start()
             $("#inimigo1").css("top", posicaoY);
 
         }
-    } //Fim da função moveinimigo1()4
+    } //Fim da função moveinimigo1()
 
 
     function moveinimigo2() {
@@ -135,6 +135,8 @@ function start() { // Inicio da função start()
         if (posicaoX <= 0) {
 
             $("#inimigo2").css("left", 775);
+
+            perdidos++;
 
         }
     } // Fim da função moveinimigo2()
@@ -148,7 +150,7 @@ function start() { // Inicio da função start()
 
             $("#amigo").css("left", 0);
 
-            perdidos++;
+            pontos = pontos + 1000;
         }
 
     } // fim da função moveamigo()
