@@ -40,7 +40,7 @@ Se o inimigo Bowser passar ou colidir com a Princesa Peach, conta 1 ponto perdid
 As vidas são perdidas quando:
 
 * Colisão entre:
-  * Jogador Mario e o inimigo Bill bala
+  * Jogador Mario e o inimigo Bill Bala
   * Jogador Mario e o inimigo Bowser
   * Princesa Peach e o inimigo Bowser
 
