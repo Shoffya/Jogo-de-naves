@@ -44,4 +44,4 @@ As vidas são perdidas quando:
   * Jogador Mario e o inimigo Bowser
   * Princesa Peach e o inimigo Bowser
 
-* Se o 1º inimigo Bill bala passar.
+* Se o inimigo Bill bala passar.
