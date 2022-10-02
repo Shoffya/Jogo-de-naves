@@ -2,7 +2,7 @@
 
 ## Informações
 
-O objetivo do jogo é ajudar o <a href="https://mario.fandom.com/pt/wiki/Mario" target="_blank">Mario</a> a resgatar a princesa <a href="https://mario.fandom.com/pt/wiki/Princesa_Peach" target="_blank">Peach</a> antes que a mesma seja atropelada pelo <a href="https://mario.fandom.com/pt/wiki/Bowser" target="_blank">Bowser,</a> ao mesmo tempo que ele tem que derrotar o <a href="https://mario.fandom.com/pt/wiki/Bill_Bala" target="_blank">Bill Bala</a> para o mesmo não passar. Caso não de tempo de salva-la, o Mario terá que atirar tanto no Bill Bala quanto no Bowser para que ela consiga passar em segurança.
+O objetivo do jogo é ajudar o <a href="https://mario.fandom.com/pt/wiki/Mario" target="_blank">Mario</a> a resgatar a princesa <a href="https://mario.fandom.com/pt/wiki/Princesa_Peach" target="_blank">Peach</a> antes que a mesma seja atropelada pelo <a href="https://mario.fandom.com/pt/wiki/Bowser" target="_blank">Bowser,</a> ao mesmo tempo que ele tem que derrotar o <a href="https://mario.fandom.com/pt/wiki/Bill_Bala" target="_blank">Bill Bala</a> para o mesmo não passar. Caso não dê tempo de salvá-la, o Mario terá que atirar tanto no Bill Bala quanto no Bowser para que ela consiga passar em segurança.
 
 ***
 
